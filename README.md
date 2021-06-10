@@ -1,9 +1,9 @@
-##### name: Ruslan Laptev
+#### name: Ruslan Laptev
 
-##### location: Moscow
+#### location: Moscow
 
-##### currently looking for a frontend developer job
+#### currently looking for a frontend developer job
 
-##### technologies: JavaScript, ReactJS, HTML5, CSS3
+#### technologies: JavaScript, ReactJS, HTML5, CSS3
 
-##### visit my portfolio website: https://ruslanlaptev-portfolio.netlify.app/
+#### visit my portfolio website: https://ruslanlaptev-portfolio.netlify.app/
