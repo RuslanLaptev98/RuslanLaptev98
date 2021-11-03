@@ -1,7 +1,7 @@
-### name: **Ruslan Laptev**<br>
+#### name: **Ruslan Laptev**<br>
 
-### location: **Moscow**<br>
+#### location: **Moscow**<br>
 
-### favourite stack: **TypeScript, React, MobX, SCSS, Node.js, Express, PostgreSQL** <br>
+#### favourite stack: **TypeScript, React, MobX, SCSS, Node.js, Express, PostgreSQL** <br>
 
-### visit my **portfolio** website: https://ruslanlaptev-portfolio.netlify.app/
+#### visit my **portfolio** website: https://ruslanlaptev-portfolio.netlify.app/
